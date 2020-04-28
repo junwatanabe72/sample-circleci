@@ -31,4 +31,4 @@ jobs:
      - run:
          name: 独自コンテナで実行
          command: |
-           node-v
+           node -v
